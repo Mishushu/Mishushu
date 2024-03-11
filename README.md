@@ -1,16 +1,17 @@
-### Hi there 👋
+Hey there, folks! 👋
 
-<!--
-**Mishushu/Mishushu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm into computers and gaming. Right now, I'm dipping my toes into the wild world of game development! Short scoop on me:
 
-Here are some ideas to get you started:
+👾 Baby bird learning to flap its wings in Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔮 Currently exploring the realms of Unity and Unreal engines.
+
+🚀 Wrangling SQL and ERD databases like a pro (or at least trying to...).
+
+🎮 On an infinite quest in RPGs.
+
+💕 Head over heels for my Nintendo Switch!
+
+💻 Computer science student, navigating through code and chaos with the grace of a novice.
+
+📫 If you would like to reach me, write here: bednarz.katarzyna86@gmail.com
