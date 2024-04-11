@@ -1,8 +1,8 @@
 Hey there, folks! 👋
 
-I'm into computers and gaming. Right now, I'm dipping my toes into the wild world of game development! Short scoop on me:
+I'm into computers and gaming. Right now, I'm dipping my toes into the wild world of game development!
 
-👾 Baby bird learning to flap its wings in Java.
+👾 Baby bird learning to flap its wings in programming.
 
 🔮 Currently exploring the realms of Unity and Unreal engines.
 
@@ -12,6 +12,6 @@ I'm into computers and gaming. Right now, I'm dipping my toes into the wild worl
 
 💕 Head over heels for my Nintendo Switch!
 
-💻 Computer science student, navigating through code and chaos with the grace of a novice.
+💻 Computer science student.
 
-📫 If you would like to reach me, write here: bednarz.katarzyna86@gmail.com
+📫 bednarz.katarzyna86@gmail.com
